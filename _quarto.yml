@@ -1,0 +1,27 @@
+project:
+  type: website
+
+website:
+  title: "Si Lab"
+
+  navbar:
+    search: true
+    left:
+      - href: index.qmd
+        text: Home
+      - href: people.qmd
+        text: People
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: contact.qmd
+        text: Contact
+
+  page-footer:
+    center: "© Si Lab"
+
+format:
+  html:
+    theme: cosmo
+    toc: true

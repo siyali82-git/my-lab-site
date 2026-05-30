@@ -1,0 +1,22 @@
+---
+title: "People"
+---
+
+## Principal Investigator
+
+**Your Name**  
+Position, Institution
+
+---
+
+## PhD Candidates
+
+- Name C — movement ecology
+- Name D — spatial modeling
+
+---
+
+## MSc / Interns
+
+- Name E
+

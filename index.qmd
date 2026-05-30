@@ -1,0 +1,45 @@
+---
+title: "Si Lab"
+---
+
+## Welcome to the Si Lab
+
+We are a spatial ecology research group focusing on understanding how environmental change shapes species distributions and movement, biodiversity patterns, and ecosystem processes across space and time.
+
+Our work integrates ecological theory with geospatial and computational methods to address challenges in global environmental change.
+
+---
+
+## Research Focus
+
+We study:
+
+- Environmental drivers of species distributions and biodiversity patterns  
+- Movement ecology and migratory behaviour of birds 
+- Impacts of global change on ecological patterns and processes
+- Spatial epidemiology of disease in wildlife and humans
+
+---
+
+## Approach
+
+We combine:
+
+- Satellite tracking and biologging  
+- Remote sensing and GIS  
+- Spatial statistical modelling  
+- Mathematical and ecological modelling  
+- Long-term ecological datasets  
+
+---
+
+## Mission
+
+To understand ecological systems in a changing world and develop evidence-based strategies for biodiversity conservation and sustainable ecosystem management.
+
+---
+
+## Join Us
+
+We welcome students and collaborators interested in spatial ecology, conservation biology, and global change science.
+

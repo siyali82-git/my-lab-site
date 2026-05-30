@@ -1,0 +1,26 @@
+{
+  "about.qmd": {
+    "about.html": "2254e67b"
+  },
+  "index.qmd": {
+    "index.html": "c6b55f07"
+  },
+  "my-lab-site/about.qmd": {
+    "about.html": "8a3b4abd"
+  },
+  "my-lab-site/index.qmd": {
+    "index.html": "995e5d44"
+  },
+  "people.qmd": {
+    "people.html": "145d14ab"
+  },
+  "contact.qmd": {
+    "contact.html": "11a12709"
+  },
+  "publications.qmd": {
+    "publications.html": "928aec15"
+  },
+  "research.qmd": {
+    "research.html": "21215c00"
+  }
+}
