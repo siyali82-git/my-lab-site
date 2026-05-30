@@ -18,7 +18,10 @@ We study how species distribute and move across space and time, and how climate 
 ---
 
 ### 2. Movement ecology under human influence
+
+
 We use satellite tracking and spatial models to study bird/mammal habitat use, migration, and their responses to environmental change.
+
 
 ---
 
