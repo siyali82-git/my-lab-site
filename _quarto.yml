@@ -33,3 +33,9 @@ format:
     theme: cosmo
     css: styles.css
     toc: false
+
+filters:
+  - quarto-citeproc
+  
+  filters:
+  - highlight-author.lua
