@@ -1,5 +1,11 @@
+
 ---
 title: "Publications"
+bibliography: publications.bib
+csl: apa.csl
 ---
 
-TBU
+## Publications
+
+::: {#refs}
+:::
