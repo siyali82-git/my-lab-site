@@ -15,7 +15,7 @@ We use integrative approaches combining ecology, geospatial technology, and quan
 ### 1. Global change ecology
 We study how species distribute and move across space and time, and how climate and land cover change reshape these patterns and processes.
 
-### 2. Movement ecology under under human influence
+### 2. Movement ecology in human-modified environments
 We use satellite tracking and spatial models to study bird and mammal habitat use, migration, and their responses to environmental change.
 
 ### 3. Biodiversity in human-dominated landscapes

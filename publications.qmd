@@ -5,7 +5,7 @@ bibliography: publications.bib
 csl: apa.csl
 ---
 
-## Publications
+## Publications 
 
 ::: {#refs}
 :::
