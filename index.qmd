@@ -63,5 +63,3 @@ We welcome students and collaborators interested in:
 - Movement ecology  
 - Spatial data science  
 - Biodiversity research
-
-## 🚨 TEST UPDATE 999

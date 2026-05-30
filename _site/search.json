@@ -18,7 +18,7 @@
     "href": "research.html#research-themes",
     "title": "Research",
     "section": "Research Themes",
-    "text": "Research Themes\n\n1. Global change ecology\nWe study how species distribute and move across space and time, and how climate and land cover change reshape these patterns and processes.\n\n\n2. Movement ecology under under human influence\nWe use satellite tracking and spatial models to study bird and mammal habitat use, migration, and their responses to environmental change.\n\n\n3. Biodiversity in human-dominated landscapes\nWe quantify how environmental heterogeneity and its spatiotemporal dynamics shape biodiversity patterns and ecosystem processes.\n\n\n4. Spatial epidemiology\nWe study how environmental conditions influence disease patterns in wildlife and humans."
+    "text": "Research Themes\n\n1. Global change ecology\nWe study how species distribute and move across space and time, and how climate and land cover change reshape these patterns and processes.\n\n\n2. Movement ecology in human-modified environments\nWe use satellite tracking and spatial models to study bird and mammal habitat use, migration, and their responses to environmental change.\n\n\n3. Biodiversity in human-dominated landscapes\nWe quantify how environmental heterogeneity and its spatiotemporal dynamics shape biodiversity patterns and ecosystem processes.\n\n\n4. Spatial epidemiology\nWe study how environmental conditions influence disease patterns in wildlife and humans."
   },
   {
     "objectID": "research.html#applications",
@@ -112,10 +112,10 @@
     "text": "Join the Lab\nWe welcome students and collaborators interested in:\n\nEcological modelling\n\nMovement ecology\n\nSpatial data science\n\nBiodiversity research"
   },
   {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "TBU"
+    "objectID": "index.html#test-update-999",
+    "href": "index.html#test-update-999",
+    "title": "Si Lab",
+    "section": "🚨 TEST UPDATE 999",
+    "text": "🚨 TEST UPDATE 999"
   }
 ]
