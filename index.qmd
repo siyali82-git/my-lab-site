@@ -2,44 +2,65 @@
 title: "Si Lab"
 ---
 
-## Welcome to the Si Lab
+::: {.hero}
+## Spatial Ecology & Environmental Change
 
-We are a spatial ecology research group focusing on understanding how environmental change shapes species distributions and movement, biodiversity patterns, and ecosystem processes across space and time.
+We study how environmental variation shapes species distributions, movement and biodiversity across space and time using quantitative ecological and geospatial methods.
 
-Our work integrates ecological theory with geospatial and computational methods to address challenges in global environmental change.
-
----
-
-## Research Focus
-
-We study:
-
-- Environmental drivers of species distributions and biodiversity patterns  
-- Movement ecology and migratory behaviour of birds 
-- Impacts of global change on ecological patterns and processes
-- Spatial epidemiology of disease in wildlife and humans
+We aim to understand ecological systems in a changing world and develop evidence-based strategies for biodiversity conservation and sustainable ecosystem management.
+:::
 
 ---
 
-## Approach
+## Research Areas
 
-We combine:
+::: {.grid}
+::: {.g-col-4}
 
-- Satellite tracking and biologging  
-- Remote sensing and GIS  
-- Spatial statistical modelling  
-- Mathematical and ecological modelling  
-- Long-term ecological datasets  
+### Movement Ecology
+Satellite tracking and spatial modelling of animal movement and migration.
+
+:::
+
+::: {.g-col-4}
+
+### Biodiversity Dynamics
+How environmental change shapes species distributions and ecosystem structure.
+
+:::
+
+::: {.g-col-4}
+
+### Global Change Ecology
+Ecological responses to climate change, land-use change, and human pressures.
+
+:::
+:::
 
 ---
 
-## Mission
+## Selected Highlights
 
-To understand ecological systems in a changing world and develop evidence-based strategies for biodiversity conservation and sustainable ecosystem management.
+- New methods for spatiotemporal ecological modelling  
+- Large-scale analysis of migratory movement systems  
+- Integration of long-term remote sensing and ecological data  
 
 ---
 
-## Join Us
+## Lab Members
 
-We welcome students and collaborators interested in spatial ecology, conservation biology, and global change science.
+Our group includes researchers working on ecology, spatial analysis, and computational modelling.
+
+👉 See [People](people.qmd)
+
+---
+
+## Join the Lab
+
+We welcome students and collaborators interested in:
+
+- Ecological modelling  
+- Movement ecology  
+- Spatial data science  
+- Biodiversity research
 
