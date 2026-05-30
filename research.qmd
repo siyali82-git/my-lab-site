@@ -13,21 +13,21 @@ We use integrative approaches combining ecology, geospatial technology, and quan
 ## Research Themes
 
 ### 1. Global change ecology
+
 We study how species distribute and move across space and time, and how climate and land cover change reshape these patterns and processes.
 
 ---
 
 ### 2. Movement ecology under human influence
 
-
-We use satellite tracking and spatial models to study bird/mammal habitat use, migration, and their responses to environmental change.
-
+We use satellite tracking and spatial models to study bird and mammal habitat use, migration, and their responses to environmental change.
 
 ---
 
 ### 3. Biodiversity in human-dominated landscapes
 
-We quantify how environmental heterogeneity and its sptiotemporal dynamics shape biodiversity patterns and ecosystem processes.
+We quantify how environmental heterogeneity and its spatiotemporal dynamics shape biodiversity patterns and ecosystem processes.
+
 ---
 
 ### 4. Spatial epidemiology
