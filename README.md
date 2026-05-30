@@ -12,7 +12,9 @@ git push
 
 \#run after updating the pages
 
+cd C:\Users\siyal\my-lab-site
 
+quarto render
 
 .\\update-site.ps1
 
