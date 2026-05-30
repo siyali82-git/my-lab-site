@@ -1,22 +1,29 @@
 project:
   type: website
+  output-dir: _site
 
 website:
   title: "Si Lab"
 
   navbar:
+    background: light
     search: true
+
     left:
-      - href: index.qmd
-        text: Home
-      - href: people.qmd
-        text: People
-      - href: research.qmd
-        text: Research
-      - href: publications.qmd
-        text: Publications
-      - href: contact.qmd
-        text: Contact
+      - text: Home
+        href: index.qmd
+
+      - text: People
+        href: people.qmd
+
+      - text: Research
+        href: research.qmd
+
+      - text: Publications
+        href: publications.qmd
+
+      - text: Contact
+        href: contact.qmd
 
   page-footer:
     center: "© Si Lab"
@@ -25,4 +32,4 @@ format:
   html:
     theme: cosmo
     css: styles.css
-    toc: true
+    toc: false
